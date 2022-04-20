@@ -1,6 +1,12 @@
 #adding congig.py
 config.py
 
+#adding G_key.py
+G_key.py
+
+#adding key copy
+G_key_Copy1.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
